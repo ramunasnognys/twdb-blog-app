@@ -4,7 +4,7 @@
 This is another project from Udemy course Web Developer Bootcamp created by Colt Steele.
 #
 
-![](splashscreen.png)
+![](https://github.com/ramunasnognys/Node-Express-Blog-App/blob/ramunasnognys/gitpod-setup/assets/blog_app.png)
 
 <!-- - [Method 1:](#Method-1) (using Array.prototype method) -->
 <!-- - [Method 2:](#Method-2) (decreasing) -->
