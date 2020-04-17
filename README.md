@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ramunasnognys/Node-Express-Blog-App) 
+
 # Node-Express-Blog-App
 This is another project from Udemy course Web Developer Bootcamp created by Colt Steele.
 #
